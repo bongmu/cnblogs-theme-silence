@@ -943,11 +943,11 @@ a:hover {
 }
 
 .esa-reward .alipay:after {
-    content: '支付宝，扫一扫'
+    content: '大佬,推荐一下'
 }
 
 .esa-reward .wechat:after {
-    content: '微信，扫一扫'
+    content: '大佬,关注我'
 }
 
 .esa-reward-close {
@@ -1049,7 +1049,7 @@ a:hover {
 }
 
 #div_digg .reward .rewardnum:before {
-    content: '赞赏';
+    content: '惊喜';
     font-size: 15px
 }
 
