@@ -1,5 +1,5 @@
 # Silence
-[![Cnblogs](https://img.shields.io/badge/latest-v1.1.2-brightgreen.svg)](https://github.com/esofar/cnblogs-theme-silence/releases)
+[![Cnblogs](https://img.shields.io/badge/latest-v1.1.3-brightgreen.svg)](https://github.com/esofar/cnblogs-theme-silence/releases)
 [![Cnblogs](https://img.shields.io/badge/dependencies-jQuery-blue.svg)](https://www.cnblogs.com)
 [![GitHub issues](https://img.shields.io/github/issues/esofar/cnblogs-theme-silence.svg)](https://github.com/esofar/cnblogs-theme-silence/issues)
 [![GitHub license](https://img.shields.io/github/license/esofar/cnblogs-theme-silence.svg)](https://github.com/esofar/cnblogs-theme-silence/blob/master/LICENSE)
@@ -297,4 +297,8 @@ git clone https://github.com/esofar/cnblogs-theme-silence.git
 ### v1.1.2
 * 修复若干手机端适配问题。
 * 调整标签列表页面显示效果。
+
+### v1.1.3
+* 新增右下角快捷操作工具栏。
+* markdown 编辑模式下代码背景调整为亮色。
 
